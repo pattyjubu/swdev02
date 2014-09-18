@@ -26,10 +26,10 @@
            	  <div>notcoe</div>
            	  <div>worrrrrr</div>
            </td>
+           <td>
              <div>PATTY</div>
              <div>NOT</div>
              <div>WOR</div>
-           <td>
            </td>
 		</tr>
 	</table>
