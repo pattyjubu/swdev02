@@ -1,17 +1,17 @@
 <html>
 <head>
-  <title> mimimi group </title>
+  <title><h1> MIMIMI GROUP </h1></title>
 </head>
 <body>
 	<table  width="100%" border="2" cellspacing="0" cellpadding="0">
 		<tr>
-           <td>
+           <td width="33%">
            	Student ID
            </td>
-           <td>
+           <td width="33%">
            	Username
            </td>
-           <td>
+           <td width="33%">
            	Name
            </td>
 		</tr>
