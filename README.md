@@ -1,7 +1,7 @@
 <html>
 <body>
  <h3><:|| MIMIMI GROUP ||:> </h3>
-  <table  width="100%" border="2" cellspacing="0" cellpadding="0">
+  <table  width="50%" border="2" cellspacing="3" cellpadding="0">
     <tr>
            <td width="33%">
                <div align="center"><b><u>Student ID</b></u></div>
