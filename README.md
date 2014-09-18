@@ -1,16 +1,16 @@
 <html>
 <body>
- <h2><:|| MIMIMI GROUP ||:> </h2>
-  <table  width="100%" border="1" cellspacing="0" cellpadding="0">
+ <h3><:|| MIMIMI GROUP ||:> </h3>
+  <table  width="100%" border="2" cellspacing="0" cellpadding="0">
     <tr>
            <td width="33%">
-               <div align="center"><h5>Student ID</h5></div>
+               <div align="center"><b><u>Student ID</b></u></div>
            </td>
            <td width="33%">
-               <div align="center"><h5>Username</h5></div>
+               <div align="center"><b><u>Username</b></u></div>
            </td>
            <td width="33%">
-              <div align="center"><h5>Name</h5></div>
+              <div align="center"><b><u>Name</b></u></div>
            </td>
     </tr>
     <tr>
